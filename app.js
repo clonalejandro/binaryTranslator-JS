@@ -12,7 +12,7 @@
  * -- LICENSE --
  *
  * All rights reserved for clonalejandro ©traductorBinario 2017 / 2018
-**/
+*/
 
 /** SMALL CONSTRUCTORS **/
 
